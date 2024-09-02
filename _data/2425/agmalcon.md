@@ -1,4 +1,4 @@
-emoji :beaming_face_with_smiling_eyes: y'all!
+emoji 😁 y'all!
 ***
 about_me
 >  Hi I'm Ailen, I like to draw and watch anime or movies about mysteries, actions and thriller.
